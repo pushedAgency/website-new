@@ -8,7 +8,7 @@ export default function LoginPage() {
         <LoginForm />
       </div>
       <div className="styleResponsive">
-        <h1>Esta pagina esta diseñada para verse desde una Computadora</h1>
+        <h1>Esta pagina esta diseñada para verse desde una Computadoras</h1>
       </div>
     </Suspense>
   );
